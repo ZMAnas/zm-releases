@@ -1,8 +1,8 @@
 {
- "versionCode": 17,
- "versionName": "3.1-ethanol",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/ethanol-17/ZM-Sensor-3.1-ethanol.apk",
- "sha256": "7427fda8a8da2a9353e797bf9a90cf16e589ac75da551900a08c57908f41d304",
- "size": 4931421,
- "notes": "First version with app updates."
+ "versionCode": 18,
+ "versionName": "3.1.1-ethanol",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/ethanol-18/ZM-Sensor-3.1.1-ethanol.apk",
+ "sha256": "b31412188343a953331dbac8da164f9336aafc9e72aef5e82a29448859ee6d43",
+ "size": 4931824,
+ "notes": "Test update to 3.1.1: same app, new version number, to check updates arrive over the internet."
 }
