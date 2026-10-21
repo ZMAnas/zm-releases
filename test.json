@@ -1,8 +1,8 @@
 {
- "versionCode": 17,
- "versionName": "3.1",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/test-17/ZM-Sensor-3.1-test.apk",
- "sha256": "f7eea1e7c660bc65a1c31f82ac7754642724ac2b7aef2a5e81b45d29a6671fc0",
- "size": 4928645,
- "notes": "Adds app updates from inside the app."
+ "versionCode": 18,
+ "versionName": "3.1.1",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/test-18/ZM-Sensor-3.1.1-test.apk",
+ "sha256": "7036f4b0e6dbefddf978a253ff294cb9f381ff56cec7d10b5c5ed3db52da4f19",
+ "size": 4929169,
+ "notes": "Test update to 3.1.1: same app, new version number, to check updates arrive over the internet."
 }
