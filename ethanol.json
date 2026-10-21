@@ -1,8 +1,8 @@
 {
- "versionCode": 18,
- "versionName": "3.1.1-ethanol",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/ethanol-18/ZM-Sensor-3.1.1-ethanol.apk",
- "sha256": "b31412188343a953331dbac8da164f9336aafc9e72aef5e82a29448859ee6d43",
- "size": 4931824,
- "notes": "Test update to 3.1.1: same app, new version number, to check updates arrive over the internet."
+ "versionCode": 19,
+ "versionName": "3.1.2-ethanol",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/ethanol-19/ZM-Sensor-3.1.2-ethanol.apk",
+ "sha256": "ac8b3d1346354a25e485011630f65047bdaf3f8cdfd857ae6cffa07be5dfae91",
+ "size": 4937802,
+ "notes": "Needs the internet: the app checks in with ZM Motorsport when it starts."
 }
