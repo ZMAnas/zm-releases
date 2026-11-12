@@ -1,8 +1,8 @@
 {
- "versionCode": 18,
- "versionName": "3.1.1",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/main-18/ZM-Sensor-3.1.1.apk",
- "sha256": "d350515b6e43ad8e2a15d6893572fd2ddd473a4a9e5169a0a83d3742f40d178d",
- "size": 4929105,
- "notes": "Test update to 3.1.1: same app, new version number, to check updates arrive over the internet."
+ "versionCode": 21,
+ "versionName": "3.2.1",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/main-21/ZM-Sensor-3.2.1.apk",
+ "sha256": "9c2cc74322cebf4c9a1b3db25766e97ad5214bce9219b436d8a641374f6f3227",
+ "size": 6158038,
+ "notes": "ZM Sensor 3.2.1: new setup, backup, service reminders, Find my box, send logs, box 2.6, live reading on the Lock Screen"
 }
