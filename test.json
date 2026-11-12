@@ -1,8 +1,8 @@
 {
- "versionCode": 21,
- "versionName": "3.2.1",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/test-21/ZM-Sensor-3.2.1-test.apk",
- "sha256": "77cddf0ce841fa5e4d86288f7f6f3245f3a83fd071b28808b9fa7665478455d7",
- "size": 6158046,
- "notes": "ZM Sensor 3.2.1 test build"
+ "versionCode": 22,
+ "versionName": "3.2.2",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/test-22/ZM-Sensor-3.2.2-test.apk",
+ "sha256": "2396bf638f0a4a6defe3a16f6cb90afdbeec393f3b26e7b1f720393bc3ec15c1",
+ "size": 6156595,
+ "notes": "Shows the Welcome setup once after the update"
 }
