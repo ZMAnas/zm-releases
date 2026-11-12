@@ -1,8 +1,8 @@
 {
- "versionCode": 21,
- "versionName": "3.2.1",
- "apk": "https://github.com/ZMAnas/zm-releases/releases/download/main-21/ZM-Sensor-3.2.1.apk",
- "sha256": "9c2cc74322cebf4c9a1b3db25766e97ad5214bce9219b436d8a641374f6f3227",
- "size": 6158038,
- "notes": "ZM Sensor 3.2.1: new setup, backup, service reminders, Find my box, send logs, box 2.6, live reading on the Lock Screen"
+ "versionCode": 22,
+ "versionName": "3.2.2",
+ "apk": "https://github.com/ZMAnas/zm-releases/releases/download/main-22/ZM-Sensor-3.2.2.apk",
+ "sha256": "7b61b89a33ad63fe7263a649b21544b7683b6f5148f6a012ba9fdf4ed8290cec",
+ "size": 6156590,
+ "notes": "Shows the Welcome setup once after the update"
 }
